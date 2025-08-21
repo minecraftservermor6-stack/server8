@@ -8006,3 +8006,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 15:03:20.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [21Aug2025 15:03:20.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [21Aug2025 15:05:11.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 86
+[21Aug2025 15:07:59.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=86, z=-12} BlockPos{x=-68, y=85, z=-10}
+[21Aug2025 15:08:20.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[21Aug2025 15:08:20.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[21Aug2025 15:13:20.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[21Aug2025 15:13:20.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
