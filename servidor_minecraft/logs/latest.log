@@ -459,3 +459,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 15:43:39.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=84, z=-30} BlockPos{x=-86, y=85, z=-26}
 [21Aug2025 15:43:39.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=84, z=-30} BlockPos{x=-86, y=85, z=-26}
 [21Aug2025 15:43:39.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=84, z=-30} BlockPos{x=-86, y=85, z=-26}
+[21Aug2025 16:03:38.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=83, z=16} BlockPos{x=-76, y=84, z=16}
