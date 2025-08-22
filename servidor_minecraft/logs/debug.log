@@ -7978,3 +7978,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Aug2025 22:40:22.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [22Aug2025 22:40:22.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [22Aug2025 22:41:30.771] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[22Aug2025 22:45:22.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[22Aug2025 22:45:22.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[22Aug2025 22:47:53.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:47:53.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:47:54.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:47:54.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:47:54.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:47:54.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=62, z=1} BlockPos{x=-142, y=61, z=3}
+[22Aug2025 22:50:22.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[22Aug2025 22:50:22.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
