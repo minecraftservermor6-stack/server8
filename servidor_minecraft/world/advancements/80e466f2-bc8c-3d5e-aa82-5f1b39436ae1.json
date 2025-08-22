@@ -1,7 +1,37 @@
 {
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-22 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-22 23:20:00 +0000"
+    },
+    "done": true
+  },
   "portable_blueprints:recipes/recipes": {
     "criteria": {
       "always_unlock": "2025-08-22 23:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "pumpkin_pie": "2025-08-22 23:23:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-22 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-22 23:30:36 +0000"
     },
     "done": true
   },
@@ -11,11 +41,44 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-22 23:16:08 +0000"
+    },
+    "done": true
+  },
   "thijquint:root": {
     "criteria": {
       "tick": "2025-08-22 23:09:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-22 23:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-22 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-22 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-08-22 23:20:00 +0000",
+      "fletcher": "2025-08-22 23:21:07 +0000",
+      "woodworker": "2025-08-22 23:20:22 +0000",
+      "farmer": "2025-08-22 23:22:59 +0000"
+    },
+    "done": false
   },
   "create:root": {
     "criteria": {
@@ -38,6 +101,12 @@
   "thijquint:anti": {
     "criteria": {
       "tick": "2025-08-22 23:09:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-22 23:20:00 +0000"
     },
     "done": true
   },
@@ -70,9 +139,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2025-08-22 23:09:46 +0000"
+      "minecraft:birch_forest": "2025-08-22 23:13:29 +0000",
+      "minecraft:bamboo_jungle": "2025-08-22 23:09:46 +0000",
+      "minecraft:dark_forest": "2025-08-22 23:13:10 +0000",
+      "minecraft:river": "2025-08-22 23:12:53 +0000",
+      "minecraft:forest": "2025-08-22 23:13:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-22 23:13:16 +0000",
+      "minecraft:plains": "2025-08-22 23:14:25 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-22 23:23:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-22 23:19:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
