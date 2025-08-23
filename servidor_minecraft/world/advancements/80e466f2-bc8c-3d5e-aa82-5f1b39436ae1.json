@@ -212,6 +212,8 @@
       "minecraft:skeleton": "2025-08-23 00:32:36 +0000",
       "minecraft:ghast": "2025-08-23 00:49:45 +0000",
       "minecraft:hoglin": "2025-08-23 00:53:41 +0000",
+      "minecraft:magma_cube": "2025-08-23 01:01:59 +0000",
+      "minecraft:piglin_brute": "2025-08-23 00:56:32 +0000",
       "minecraft:piglin": "2025-08-23 00:33:08 +0000",
       "quark:foxhound": "2025-08-23 00:30:07 +0000"
     },
@@ -229,6 +231,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-23 00:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "quark:foxhound": "2025-08-23 00:30:07 +0000"
@@ -238,6 +246,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-23 00:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-23 00:58:19 +0000"
     },
     "done": true
   },

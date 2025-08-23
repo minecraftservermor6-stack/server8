@@ -287,3 +287,15 @@
 [23Aug2025 00:38:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Into Fire]
 [23Aug2025 00:39:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Isn't It Iron Pick]
 [23Aug2025 00:52:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Those Were the Days]
+[23Aug2025 00:58:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [War Pigs]
+[23Aug2025 00:58:30.578] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 66.0005791973758, -95.73421267978847] -> [-50.46354718133807, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
+[23Aug2025 00:58:38.826] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 70.61907602419244, -95.73425110802054] -> [-50.463539984077215, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
+[23Aug2025 00:58:43.828] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 66.00000437498215, -95.72883649170399] -> [-50.46956488862634, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
+[23Aug2025 00:58:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Ice Bucket Challenge]
+[23Aug2025 01:04:58.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[23Aug2025 01:04:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[23Aug2025 01:08:12.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[23Aug2025 01:08:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[23Aug2025 01:11:58.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matmat3[/127.250.181.148:34927] logged in with entity id 99154 at (599.6080065526431, 67.0, 200.54267884921447)
+[23Aug2025 01:11:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matmat3 joined the game
+[23Aug2025 01:12:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <matmat3> q tas escuchando mateo
