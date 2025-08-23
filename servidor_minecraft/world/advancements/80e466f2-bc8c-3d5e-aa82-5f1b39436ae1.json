@@ -222,12 +222,14 @@
       "minecraft:magma_cube": "2025-08-23 01:01:59 +0000",
       "minecraft:piglin_brute": "2025-08-23 00:56:32 +0000",
       "minecraft:spider": "2025-08-23 04:47:10 +0000",
+      "minecraft:creeper": "2025-08-23 16:17:50 +0000",
       "minecraft:wither_skeleton": "2025-08-23 01:50:02 +0000",
       "quark:wraith": "2025-08-23 01:44:18 +0000",
       "minecraft:piglin": "2025-08-23 00:33:08 +0000",
       "minecraft:enderman": "2025-08-23 02:03:32 +0000",
       "quark:foxhound": "2025-08-23 00:30:07 +0000",
-      "minecraft:zombie": "2025-08-23 02:46:17 +0000"
+      "minecraft:zombie": "2025-08-23 02:46:17 +0000",
+      "minecraft:zombie_villager": "2025-08-23 16:32:55 +0000"
     },
     "done": false
   },
@@ -294,6 +296,30 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-23 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-23 16:29:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-08-23 16:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-23 16:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-23 16:29:14 +0000"
     },
     "done": true
   },
