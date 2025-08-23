@@ -286,3 +286,4 @@
 [23Aug2025 00:37:22.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 70.52427082094756, -94.38103792257607] -> [-50.142383608967066, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
 [23Aug2025 00:38:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Into Fire]
 [23Aug2025 00:39:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Isn't It Iron Pick]
+[23Aug2025 00:52:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Those Were the Days]
