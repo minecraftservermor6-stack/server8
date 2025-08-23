@@ -7981,3 +7981,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 18:52:36.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [23Aug2025 18:53:03.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=67, z=4} BlockPos{x=91, y=66, z=-1}
 [23Aug2025 18:53:39.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=66, z=15} BlockPos{x=76, y=65, z=15}
+[23Aug2025 18:57:36.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 18:57:36.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:02:36.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:02:36.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:07:36.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:07:36.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:12:36.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:12:36.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:17:36.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:17:36.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:22:36.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:22:36.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:27:36.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:27:36.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[23Aug2025 19:31:36.577] [Server thread/DEBUG] [mixin/]: Mixing foundation.copycat.multistate.AirCurrentMixin from copycats-common.mixins.json into com.simibubi.create.content.kinetics.fan.AirCurrent
+[23Aug2025 19:31:36.577] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinAirCurrent from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.fan.AirCurrent
+[23Aug2025 19:31:36.633] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from createdieselgenerators.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[23Aug2025 19:31:36.716] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinContraptionCollider from valkyrienskies-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
+[23Aug2025 19:31:38.245] [Server thread/DEBUG] [mixin/]: Mixing copycat.door.BlockHelperMixin from copycats-common.mixins.json into com.simibubi.create.foundation.utility.BlockHelper
+[23Aug2025 19:31:39.428] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787521 : 768129
+[23Aug2025 19:31:39.434] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 3f9926bd-db11-404b-99b9-6e6990109b77 watched ships: [287]
+[23Aug2025 19:31:39.804] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787520 : 768130
+[23Aug2025 19:31:39.904] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.IMixinDeployerHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
+[23Aug2025 19:31:39.905] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method invokeShouldActivate(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;)Z to invokeShouldActivate_$md$21b1d1$0 in valkyrienskies-common.mixins.json:mod_compat.create.IMixinDeployerHandler
+[23Aug2025 19:31:40.496] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787521 : 768128
+[23Aug2025 19:31:40.555] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787520 : 768129
+[23Aug2025 19:31:42.146] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787520 : 768128
+[23Aug2025 19:31:42.292] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787519 : 768129
+[23Aug2025 19:31:43.188] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787519 : 768128
+[23Aug2025 19:31:43.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787520 : 768127
+[23Aug2025 19:31:46.387] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[23Aug2025 19:31:46.691] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinBeltMovementHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler
+[23Aug2025 19:32:36.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[23Aug2025 19:32:36.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
