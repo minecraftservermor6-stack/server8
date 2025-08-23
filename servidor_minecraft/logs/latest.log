@@ -464,3 +464,6 @@
 [23Aug2025 03:08:49.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=59, z=217} BlockPos{x=-139, y=59, z=216}
 [23Aug2025 03:08:49.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=59, z=217} BlockPos{x=-139, y=59, z=216}
 [23Aug2025 03:08:49.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=59, z=217} BlockPos{x=-139, y=59, z=216}
+[23Aug2025 03:30:28.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucroto[/127.157.203.231:46485] logged in with entity id 180751 at (8.5, 64.0, 7.5)
+[23Aug2025 03:30:28.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
+[23Aug2025 03:30:28.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Welcome To Jurassic Additions]
