@@ -299,3 +299,12 @@
 [23Aug2025 01:11:58.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matmat3[/127.250.181.148:34927] logged in with entity id 99154 at (599.6080065526431, 67.0, 200.54267884921447)
 [23Aug2025 01:11:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matmat3 joined the game
 [23Aug2025 01:12:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <matmat3> q tas escuchando mateo
+[23Aug2025 01:21:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matmat3 has made the advancement [What Man Wasn't Meant to Know]
+[23Aug2025 01:24:29.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=49, z=86} BlockPos{x=373, y=48, z=86}
+[23Aug2025 01:24:35.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=49, z=75} BlockPos{x=373, y=48, z=75}
+[23Aug2025 01:24:39.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=49, z=69} BlockPos{x=373, y=48, z=69}
+[23Aug2025 01:24:45.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=365, y=51, z=58} BlockPos{x=365, y=50, z=58}
+[23Aug2025 01:26:43.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:41627] logged in with entity id 106662 at (-200.42999573091376, 52.0, 44.31250803547606)
+[23Aug2025 01:26:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[23Aug2025 01:27:06.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> holanda
+[23Aug2025 01:27:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <matmat3> olaf
