@@ -489,3 +489,15 @@
 [23Aug2025 03:49:13.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
 [23Aug2025 03:49:31.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Monster Hunter]
 [23Aug2025 03:50:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto was slain by Zombie
+[23Aug2025 03:52:10.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Not Today, Thank You]
+[23Aug2025 03:52:14.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=69, z=1} BlockPos{x=-15, y=65, z=-7}
+[23Aug2025 03:54:11.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[23Aug2025 03:54:11.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[23Aug2025 03:56:03.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:48137] logged in with entity id 195474 at (143.15579062316476, 67.19999996423722, 107.75377319429116)
+[23Aug2025 03:56:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[23Aug2025 03:57:39.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss hit the ground too hard
+[23Aug2025 03:57:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [A Seedy Place]
+[23Aug2025 04:00:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss got cut in half by a Mechanical Saw
+[23Aug2025 04:02:32.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Stone Age]
+[23Aug2025 04:03:16.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto was incinerated by an Encased Fan
+[23Aug2025 04:06:34.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Sweet Dreams]
