@@ -76,6 +76,7 @@
       "minecraft:dark_forest": "2025-08-22 23:13:10 +0000",
       "minecraft:river": "2025-08-22 23:12:53 +0000",
       "minecraft:forest": "2025-08-22 23:13:48 +0000",
+      "minecraft:jungle": "2025-08-23 00:35:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-22 23:13:16 +0000",
       "minecraft:plains": "2025-08-22 23:14:25 +0000"
     },
@@ -125,8 +126,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-08-23 00:41:19 +0000",
       "baked_potato": "2025-08-22 23:44:12 +0000",
       "pumpkin_pie": "2025-08-22 23:23:06 +0000",
+      "golden_apple": "2025-08-23 00:30:04 +0000",
       "golden_carrot": "2025-08-23 00:04:39 +0000"
     },
     "done": false
@@ -151,7 +154,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-08-22 23:23:33 +0000"
+      "minecraft:nether_wastes": "2025-08-22 23:23:33 +0000",
+      "minecraft:soul_sand_valley": "2025-08-23 00:31:14 +0000"
     },
     "done": false
   },
@@ -200,6 +204,44 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-23 00:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-23 00:32:36 +0000",
+      "minecraft:piglin": "2025-08-23 00:33:08 +0000",
+      "quark:foxhound": "2025-08-23 00:30:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-23 00:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-23 00:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "quark:foxhound": "2025-08-23 00:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-23 00:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-23 00:30:07 +0000"
     },
     "done": true
   },
