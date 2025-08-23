@@ -471,3 +471,21 @@
 [23Aug2025 03:35:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Acquire Hardware]
 [23Aug2025 03:35:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Suit Up]
 [23Aug2025 03:37:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Isn't It Iron Pick]
+[23Aug2025 03:41:12.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[23Aug2025 03:41:12.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[23Aug2025 03:41:12.228] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Aug2025 03:41:14.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucroto lost connection: Timed out
+[23Aug2025 03:41:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto left the game
+[23Aug2025 03:42:08.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucroto[/127.157.203.231:51277] logged in with entity id 187107 at (-76.018584577076, 72.0, -83.7049640853392)
+[23Aug2025 03:42:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
+[23Aug2025 03:42:26.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:47229] logged in with entity id 187168 at (225.20435491896964, 76.19999996423722, 124.75593319246707)
+[23Aug2025 03:42:26.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[23Aug2025 03:46:40.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luiss) moved wrongly! 0.2809206064165046
+[23Aug2025 03:46:40.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luiss) moved wrongly! 0.37482172902755373
+[23Aug2025 03:46:40.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luiss) moved wrongly! 0.46869058254724116
+[23Aug2025 03:46:43.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucroto lost connection: Disconnected
+[23Aug2025 03:46:43.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto left the game
+[23Aug2025 03:49:13.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucroto[/127.157.203.231:35745] logged in with entity id 190134 at (-6.494138934823835, 64.0, -111.94531521881513)
+[23Aug2025 03:49:13.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
+[23Aug2025 03:49:31.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Monster Hunter]
+[23Aug2025 03:50:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto was slain by Zombie

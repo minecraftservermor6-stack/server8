@@ -278,9 +278,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "ancient_debris": "2025-08-23 02:15:27 +0000"
+      "fortress": "2025-08-23 01:48:38 +0000"
     },
     "done": true
   },
@@ -290,9 +290,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "fortress": "2025-08-23 01:48:38 +0000"
+      "ancient_debris": "2025-08-23 02:15:27 +0000"
     },
     "done": true
   },
