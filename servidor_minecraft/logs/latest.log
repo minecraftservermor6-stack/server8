@@ -694,3 +694,27 @@
 [23Aug2025 04:51:55.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [First Trade]
 [23Aug2025 04:51:55.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [Ace Trainer]
 [23Aug2025 04:51:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [What a Deal!]
+[23Aug2025 04:58:14.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucroto lost connection: Disconnected
+[23Aug2025 04:58:14.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto left the game
+[23Aug2025 04:58:40.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[23Aug2025 04:58:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[23Aug2025 04:58:50.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Aug2025 04:58:50.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Aug2025 04:58:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Aug2025 04:58:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Aug2025 04:58:50.162] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[23Aug2025 04:58:50.170] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[23Aug2025 04:58:50.251] [DefaultDispatcher-worker-2/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[23Aug2025 04:58:50.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[23Aug2025 04:58:50.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[23Aug2025 04:58:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[23Aug2025 04:58:50.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[23Aug2025 04:58:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[23Aug2025 04:58:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[23Aug2025 04:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

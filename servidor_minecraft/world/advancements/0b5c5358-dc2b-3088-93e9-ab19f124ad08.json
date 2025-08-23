@@ -124,6 +124,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-23 04:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-23 04:02:32 +0000"
@@ -150,6 +156,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-23 04:51:55 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-08-23 04:51:55 +0000",
+      "woodworker": "2025-08-23 04:54:23 +0000",
+      "librarian": "2025-08-23 04:52:41 +0000",
+      "shepherd": "2025-08-23 04:54:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-08-23 04:34:21 +0000"
@@ -159,6 +180,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-23 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-23 04:51:55 +0000"
     },
     "done": true
   },
