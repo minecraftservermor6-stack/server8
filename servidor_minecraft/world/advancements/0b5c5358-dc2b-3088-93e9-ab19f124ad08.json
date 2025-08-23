@@ -80,6 +80,7 @@
       "minecraft:cold_ocean": "2025-08-23 04:13:09 +0000",
       "minecraft:forest": "2025-08-23 03:55:59 +0000",
       "minecraft:lush_caves": "2025-08-23 03:33:29 +0000",
+      "minecraft:jungle": "2025-08-23 04:33:31 +0000",
       "minecraft:ocean": "2025-08-23 04:09:08 +0000",
       "minecraft:plains": "2025-08-23 03:56:19 +0000"
     },
@@ -148,6 +149,12 @@
       "minecraft:zombie": "2025-08-23 03:49:31 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-23 04:34:21 +0000"
+    },
+    "done": true
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
