@@ -428,3 +428,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Aug2025 01:18:15.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.117.65.98:54405] logged in with entity id 371 at (-76.4380068659517, 64.0, -96.10359493755556)
 [25Aug2025 01:18:15.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
 [25Aug2025 01:26:22.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=68, z=-78} BlockPos{x=-126, y=70, z=-88}
+[25Aug2025 01:37:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to 638.500000, 86.000000, 287.500000]
+[25Aug2025 01:41:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to -83.500000, 85.000000, -47.500000]
+[25Aug2025 01:41:32.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[25Aug2025 01:41:32.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[25Aug2025 01:41:50.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.117.65.98:56749] logged in with entity id 13136 at (-83.5, 71.74883583713113, -47.5)
+[25Aug2025 01:41:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[25Aug2025 01:42:30.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Set the time to 1000]
+[25Aug2025 01:42:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 1 [Black Bed] to lol]
+[25Aug2025 01:43:30.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=69, z=-64} BlockPos{x=-84, y=69, z=-62}
+[25Aug2025 01:44:16.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
+[25Aug2025 01:44:16.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=70, z=-59} BlockPos{x=-75, y=69, z=-60}
